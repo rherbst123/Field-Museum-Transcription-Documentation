@@ -1,8 +1,8 @@
 # Transcriber-CLI Setup
 
 ## Setup for Linux
-- Download the following repository either by using GitHub Desktop (reccomended) or cli (Whatever floats your boat). https://desktop.github.com/download/
-- You will need to have completed the AWS CLI setup and enter your credentials, a guide for doing this can be found here **ADD INSTRUCTIONS**
+ Download the following repository either by using GitHub Desktop (reccomended) or cli (Whatever floats your boat). https://desktop.github.com/download/
+- You will need to have completed the AWS CLI setup and enter your credentials, a guide for doing this can be found here [AWS Setup Guide](../AWS_Setup/README.md)
 
 - First, open GitHub Dekstop. To Clone the repository navigate to the top left in your GitHub Desktop, click File then click "Clone Repository"
 
@@ -13,7 +13,7 @@
 
 
 ![image](../Instruction%20Images/CloneURL.png)
-
+- Check the Local path and see where your repositories are being downloaded
 
 - Once cloned you can now navigate to the repository!
 
