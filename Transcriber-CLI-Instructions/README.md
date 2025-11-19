@@ -4,6 +4,19 @@
 - Download the following repository either by using GitHub Desktop (reccomended) or cli (Whatever floats your boat). https://desktop.github.com/download/
 - You will need to have completed the AWS CLI setup and enter your credentials, a guide for doing this can be found here **ADD INSTRUCTIONS**
 
+- First, open GitHub Dekstop. To Clone the repository navigate to the top left in your GitHub Desktop, click File then click "Clone Repository"
+
+
+![image](../Instruction%20Images/Clone.png)
+
+- Copy this URL and place it in the URL clone option (Right most option)
+
+
+![image](../Instruction%20Images/CloneURL.png)
+
+
+- Once cloned you can now navigate to the repository!
+
 - Once downloaded, navigate to the correct repository filepath, GitHub desktop usually downloads to your documents folder so the following command should bring you there if defaults are chosen.
 ```
 cd Documents/GitHub/Transcriber-CLI-V2/
