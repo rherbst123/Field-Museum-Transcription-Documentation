@@ -1,4 +1,4 @@
-# Transcriber-CLI 
+# Transcriber-CLI Setup
 
 ## Setup for Linux
 - Download the following repository either by using GitHub Desktop (reccomended) or cli (Whatever floats your boat). https://desktop.github.com/download/
@@ -60,6 +60,7 @@ sudo apt install tesseract-ocr
 ```
 - Enter in your sudo password and you will have completed the setup process!
 
+
 ## Final command once setup is complete
 ```
 cd Documents/GitHub/Transcriber-CLI-V2
@@ -76,3 +77,7 @@ python Transcriber_CLI.py
 
 ![image](../Instruction%20Images/LandingPage.png)
 #
+### To see how to configure and run the CLI please refer to this page
+[Transcriber User Guide](TranscriberConfiguration.md)
+
+- Happy Transcribing!
