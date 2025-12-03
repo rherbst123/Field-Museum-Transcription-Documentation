@@ -11,12 +11,21 @@
 - You can now Transcribe Images as you please!
 
 #### Quick Command to starting the Transcriber
+##### Linux Command
 ```
 cd Documents/GitHub/Transcriber-CLI-V2
 source Transcriber/bin/activate
 cd Transcriber-CLI-V2
 python Transcriber_CLI.py
 ```
+##### Windows Command
+```
+cd Documents/GitHub/Transcriber-CLI-V2
+Transcriber\Scripts\activate
+cd Transcriber-CLI-V2
+python Transcriber_CLI.py
+```
+
 - Once all configured the commands will lead you to the landing page!
 ![image](../Instruction%20Images/LandingPage.png)
 
