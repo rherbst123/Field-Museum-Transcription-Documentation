@@ -12,7 +12,7 @@
 
 ![image](../Instruction%20Images/Clone.png)
 
-- Copy this URL and place it in the URL clone option (Right most option)
+- Copy this URL (https://github.com/rherbst123/Transcriber-CLI-V2) and place it in the URL clone option (Right most option)
 
 
 ![image](../Instruction%20Images/CloneURL.png)
@@ -108,7 +108,7 @@ python Transcriber_CLI.py
 
 ![image](../Instruction%20Images/Clone.png)
 
-- Copy this URL and place it in the URL clone option (Right most option)
+- Copy this URL (https://github.com/rherbst123/Transcriber-CLI-V2) and place it in the URL clone option (Right most option)
 
 
 ![image](../Instruction%20Images/CloneURL.png)
